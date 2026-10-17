@@ -12,4 +12,4 @@ A clean, Nothing-styled clock app for Android.
 Get the latest APK from the [Releases](https://github.com/Fossify-AppsLover1235/NClock/releases/latest) page.
 
 ## License
-MIT
+This project is licensed under the MIT License.
